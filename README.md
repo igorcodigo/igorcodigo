@@ -4,9 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorcodigo&label=Profile%20views&color=0e75b6&style=flat" alt="igorcodigo" /> </p>
 
 ![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcodigo&layout=compact&langs_count=7&theme=dark"/>
 
+
+<a href="https://github.com/igorcodigo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=igorcodigo" />
+</a>
+<a href="https://github.com/igorcodigo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcodigo&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ![igorcodigo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorcodigo&theme=tokyonight&hide_border=true)
 <h3 align="left">Languages and Tools:</h3>
