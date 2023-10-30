@@ -5,14 +5,19 @@
 
 ![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/igorcodigo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-</a>
-<a href="https://github.com/igorcodigo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/igorcodigo/github-readme-stats" style="flex: 1; text-align: center; padding: 10px;">
+    <img height="125" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/igorcodigo/convoychat" style="flex: 1; text-align: center; padding: 10px;">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/igorcodigo/github-readme-streak-stats" style="flex: 1; text-align: center; padding: 10px;">
+    <img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcodigo&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-<img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcodigo&theme=tokyonight&hide_border=true" />
+
 
 
 
@@ -37,4 +42,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+<a href="https://github.com/igorcodigo/github-readme-stats">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+</a>
+<a href="https://github.com/igorcodigo/convoychat">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</a>
+
+<img height=89 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcodigo&theme=tokyonight&hide_border=true" />
 -->
