@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
 ##
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorcodigo&label=Profile%20views&color=0e75b6&style=flat" alt="igorcodigo" /> </p>
+![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=70A5FD)
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/igorcodigo/github-readme-stats" style="flex: 1; text-align: center; padding: 10px;">
