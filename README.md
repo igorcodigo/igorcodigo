@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##
-![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=70A5FD)
+![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=1E90FF)
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/igorcodigo/github-readme-stats" style="flex: 1; text-align: center; padding: 10px;">
