@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://github.com/igorcodigo/igorcodigo/blob/output/github-contribution-grid-snake.gif
 
 ![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
 
