@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/igorcodigo/aasas/blob/output/github-contribution-grid-snake.svg)
+https://github.com/igorcodigo/igorcodigo/blob/output/github-contribution-grid-snake.gif
 
-
+![snake gif](https://github.com/igorcodigo/igorcodigo/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **igorcodigo/igorcodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
