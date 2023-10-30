@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorcodigo&label=Profile%20views&color=0e75b6&style=flat" alt="igorcodigo" /> </p>
 
-![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
-
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/igorcodigo/github-readme-stats" style="flex: 1; text-align: center; padding: 10px;">
     <img height="125" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
@@ -18,6 +16,8 @@
 </div>
 
 
+<!-- Snake game contributions -->
+![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
 
 
 
