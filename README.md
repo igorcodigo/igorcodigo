@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
+<img align="center" alt="Livia-hello" height="100%" width="100%" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
 
 ##
 
