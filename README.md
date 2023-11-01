@@ -13,16 +13,16 @@
 
 
 #
-
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,python,django,flask,postgres,git,docker" />
   </a>
 </p>
-
-<!--
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,flask,postgres,git,docker&theme=dark)](https://skillicons.dev)
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,flask,postgres,git,docker&theme=dark)](https://skillicons.dev)
+
 
 ##
 <!-- Snake game contributions -->
