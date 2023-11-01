@@ -1,6 +1,9 @@
 ### Hi there 👋
 <img align="center" alt="Igor-hello" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
 
+- 💻 I'm studying Python, Django, SQL... 💾
+- 🌀 Full-Stack Developer
+- 🤝 Open to project partnerships
 ##
 
 ![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=1E90FF)
