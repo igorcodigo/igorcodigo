@@ -32,6 +32,8 @@
 <!-- Snake game contributions -->
 ![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
 
+Pode ser necessário reccaregar a página para a animação acima funcionar corretamente
+
 ##
 
 
