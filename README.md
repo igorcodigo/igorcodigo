@@ -36,7 +36,7 @@ Pode ser necessário reccaregar a página para a animação acima funcionar corr
 
 ##
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/igorcodigo/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcodigo&theme=tokyonight&hide_border=true" />
   </a>
