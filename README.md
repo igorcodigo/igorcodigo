@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="center" alt="Igor-hello" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
 
-<p><strong>&bull; 💻 I'm studying Python, Django, SQL... 💾</strong></p>
+<p><strong>&bull; 💻 I'm studying Python, Django, SQL ... 💾</strong></p>
 <p><strong>&bull; 🌀 Full-Stack Developer</strong></p>
 <p><strong>&bull; 🤝 Open to project partnerships</strong></p>
 
