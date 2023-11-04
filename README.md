@@ -35,10 +35,15 @@
 </p>
 
 ##
+<details>
+  <summary style="color: blue; font-weight: bold;"> Animação snake game </summary><br>
 <!-- Snake game contributions -->
+  
 ![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
 
+
 Pode ser necessário reccaregar a página para a animação acima funcionar corretamente
+</details>
 
 ##
 
