@@ -34,6 +34,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bootstrap&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+
 ##
 <details>
   <summary style="color: blue; font-weight: bold;"> Animação snake game </summary><br>
