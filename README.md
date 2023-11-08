@@ -19,24 +19,16 @@
 
 
 #
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,django,flask,postgres,git,docker" />
-  </a>
-</p>
--->
-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,django,flask,postgres,git,docker&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,django,flask,selenium,postgres,git,docker&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bootstrap&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=arduino,pytorch,java,bootstrap,wordpress&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
