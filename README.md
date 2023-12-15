@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,arduino,pytorch,java,bootstrap,wordpress,cloudflare&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=mysql,arduino,pytorch,java,bootstrap,tailwind,wordpress,cloudflare&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
