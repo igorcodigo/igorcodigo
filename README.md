@@ -20,15 +20,47 @@
 
 #
 
-<p align="center">
+Linguagens de Programação
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,selenium,postgres,heroku,js,html,css,git,docker&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,js,java,cpp&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,flutter,arduino&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+Ferramentas de Gerenciamento de Banco de Dados
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+Ferramentas de Web Service(Servidores, CDN, hospedagem, etc)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,cloudflare&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+Ferramentas de DevOps e testes de infraestrutura 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,selenium&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
-<p align="center">
+Ferramentas de Desenvolvimento Web e Design
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,flutter,arduino,pytorch,java,bootstrap,tailwind,wordpress,cloudflare,opencv&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,wordpress&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+Bibliotecas e Frameworks para Machine Learning e Visão Computacional(Sou bem iniciante nesses dois)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
