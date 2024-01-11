@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,java&theme=dark" alt="My Skills"/>
   </a>
 </p>
 <strong>Frameworks</strong>
@@ -38,6 +38,9 @@
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,flutter,arduino&theme=dark" alt="My Skills"/>
+  </a>
 </p>
 <strong>Ferramentas de Gerenciamento de Banco de Dados</strong>
 <p align="left">
