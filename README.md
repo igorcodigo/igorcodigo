@@ -1,25 +1,14 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=1E90FF)
 <img align="center" alt="Igor-hello" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
 
-<p><strong>&bull; 💻 I'm studying Python, Django, SQL ... 💾</strong></p>
+
 <p><strong>&bull; 🌀 Full-Stack Developer</strong></p>
 <p><strong>&bull; 🤝 Open to project partnerships</strong></p>
 
 
-
-
-
-![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=1E90FF)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=igorcodigo" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&username=igorcodigo" height="200" alt="languages graph"  />
-</div>
-
-
-
 #
-
+###  Minhas tecnlogias / My Tech Stack
 
 <strong>Linguagens de Programação</strong>
 <p align="left">
@@ -85,6 +74,16 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,wordpress&theme=dark" alt="My Skills"/>
   </a>
 </p>
+
+#
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=igorcodigo" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&username=igorcodigo" height="200" alt="languages graph"  />
+</div>
+
+
 
 ##
 <details>
