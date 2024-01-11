@@ -82,12 +82,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,wordpress&theme=dark" alt="My Skills"/>
   </a>
 </p>
-<strong>Bibliotecas e Frameworks para Machine Learning e Visão Computacional(Sou bem iniciante nesses dois)</strong>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="My Skills"/>
-  </a>
-</p>
 
 ##
 <details>
@@ -111,6 +105,15 @@ Pode ser necessário reccaregar a página para a animação acima funcionar corr
 
 
 <!--
+
+
+<strong>Bibliotecas e Frameworks para Machine Learning e Visão Computacional(Sou bem iniciante nesses dois)</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+
 <p align="left">
   <a href="https://github.com/igorcodigo/github-readme-stats">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
