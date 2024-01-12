@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/batchScripte-003B57?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/batchScript-003B57?style=for-the-badge&logo=&logoColor=white)
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,cpp,java&theme=dark" alt="My Skills"/>
   </a>
