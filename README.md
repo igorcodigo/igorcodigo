@@ -79,10 +79,9 @@
 
 #
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=igorcodigo" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&username=igorcodigo" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&border_radius=20px&username=igorcodigo&locale=pt-br" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&border_radius=20px&username=igorcodigo&locale=pt-br" height="200" alt="languages graph"  />
 </div>
 
 
@@ -129,6 +128,8 @@ Pode ser necessário reccaregar a página para a animação acima funcionar corr
 
 
 <!--
+
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=igorcodigo" height="200" alt="stats graph"  />
 **igorcodigo/igorcodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
