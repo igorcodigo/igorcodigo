@@ -48,6 +48,8 @@
   
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=aws&logoColor=orange)
+![](https://img.shields.io/badge/Nginx-33cc33?style=for-the-badge&logo=Nginx&logoColor=white)
 </p>
 <strong>Ferramentas de DevOps e testes de infraestrutura </strong>
 <p align="left">
