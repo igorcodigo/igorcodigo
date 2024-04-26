@@ -2,10 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=1E90FF)
 <img align="center" alt="Igor-hello" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
 
-
-<p><strong>&bull; 🌀 Full-Stack Developer</strong></p>
-<p><strong>&bull; 🤝 Open to project partnerships</strong></p>
-
+<p><strong>&bull; 🌀 Full-Stack Developer    </strong> <strong>&bull; 🤝 Open to project partnerships</strong></p>
 
 #
 ###  Minhas tecnlogias / My Tech Stack
@@ -35,46 +32,45 @@
 </p>
 <strong>Ferramentas de Gerenciamento de Banco de Dados</strong>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="My Skills"/>
+  </a>
   
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="My Skills"/>
-  </a>
 </p>
 <strong>Ferramentas de Web Service(Servidores, CDN, hospedagem, etc)</strong>
 <p align="left">
-  
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=heroku,cloudflare,aws,nginx&theme=dark" alt="My Skills"/>
   </a>
+  
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 </p>
 <strong>Ferramentas de DevOps e testes de infraestrutura </strong>
 <p align="left">
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,selenium&theme=dark" alt="My Skills"/>
+  </a>
 
 ![](https://img.shields.io/badge/git-F38020?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,selenium&theme=dark" alt="My Skills"/>
-  </a>
 </p>
 
 <strong>Ferramentas de Desenvolvimento Web e Design</strong>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,wordpress&theme=dark" alt="My Skills"/>
+  </a>
   
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,wordpress&theme=dark" alt="My Skills"/>
-  </a>
 </p>
 
 #
