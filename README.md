@@ -12,26 +12,26 @@
 
 <strong>Linguagens de Programação</strong>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,java,bash&theme=dark" alt="My Skills"/>
+  </a>
   
 ![](https://img.shields.io/badge/PYTHON-117612.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/batchScript-003B57?style=for-the-badge&logo=&logoColor=white)
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,java,bash&theme=dark" alt="My Skills"/>
-  </a>
 </p>
 <strong>Frameworks</strong>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,flutter,arduino&theme=dark" alt="My Skills"/>
+  </a>
   
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,flutter,arduino&theme=dark" alt="My Skills"/>
-  </a>
 </p>
 <strong>Ferramentas de Gerenciamento de Banco de Dados</strong>
 <p align="left">
