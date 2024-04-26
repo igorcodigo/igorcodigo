@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/batchScript-003B57?style=for-the-badge&logo=&logoColor=white)
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,java&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,java,bash&theme=dark" alt="My Skills"/>
   </a>
 </p>
 <strong>Frameworks</strong>
@@ -49,7 +49,7 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,cloudflare&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=heroku,cloudflare,aws,nginx&theme=dark" alt="My Skills"/>
   </a>
 </p>
 <strong>Ferramentas de DevOps e testes de infraestrutura </strong>
