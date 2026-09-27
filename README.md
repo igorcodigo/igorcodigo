@@ -1,3 +1,7 @@
+<!-- repos-pai:inicio -->
+> **Repositório pai:** [`Projetos_Em_Atividade__Web__Landing_Pages_E_Sites`](https://github.com/igorcodigo/Projetos_Em_Atividade__Web__Landing_Pages_E_Sites) — pasta `Projetos_Em_Atividade/Web/Landing_Pages_E_Sites`
+<!-- repos-pai:fim -->
+
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=1E90FF)
 <img align="center" alt="Igor-hello" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
